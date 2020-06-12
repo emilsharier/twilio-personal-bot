@@ -1,6 +1,6 @@
 # Twilio Personal Bot
 
-This is a personal bot built using [Twilio API](https://github.com/twilio/twilio-node) in nodejs. The backend database used is postgreSQL.
+This is a personal Whatsapp bot built using [Twilio API](https://github.com/twilio/twilio-node) in nodejs. The backend database used is postgreSQL.
 
 ## Available commands
 
